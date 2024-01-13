@@ -63,8 +63,8 @@ const useUserStore = defineStore('user', {
     // Login
     async login(loginForm: LoginData) {
       try {
-        // const res = await userLogin(loginForm);
-        setToken('token');
+        const res = await userLogin(loginForm);
+        setToken(res.data.token);
       } catch (err) {
         clearToken();
         throw err;
@@ -80,7 +80,7 @@ const useUserStore = defineStore('user', {
     // Logout
     async logout() {
       try {
-        // await userLogout();
+        await userLogout();
       } finally {
         this.logoutCallBack();
       }
