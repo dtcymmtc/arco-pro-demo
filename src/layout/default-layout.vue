@@ -76,9 +76,7 @@
   });
   const paddingStyle = computed(() => {
     const paddingLeft =
-      renderMenu.value && !hideMenu.value
-        ? { paddingLeft: `${menuWidth.value}px` }
-        : {};
+      renderMenu.value && !hideMenu.value ? { paddingLeft: 0 } : {};
     const paddingTop = navbar.value ? { paddingTop: navbarHeight } : {};
     return { ...paddingLeft, ...paddingTop };
   });
@@ -124,11 +122,11 @@
   }
 
   .layout-sider {
-    position: fixed;
+    position: sticky;
     top: 0;
     left: 0;
     z-index: 99;
-    height: 100%;
+    height: 100vh;
     transition: all 0.2s cubic-bezier(0.34, 0.69, 0.1, 1);
     &::after {
       position: absolute;
