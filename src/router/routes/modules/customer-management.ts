@@ -9,7 +9,7 @@ const CUSTOMERMANAGEMENT: AppRouteRecordRaw = {
     locale: 'menu.customerManagement',
     requiresAuth: true,
     icon: 'icon-user',
-    order: 3,
+    order: 4,
   },
   children: [
     {
