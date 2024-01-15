@@ -1,0 +1,325 @@
+.tc {
+  text-align: center;
+}
+
+.ellipsis {
+  max-width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.container {
+  padding: 20px;
+}
+
+#tag-map .map-content[data-v-6489a9a8] {
+  position: relative;
+  min-height: 300px;
+  padding: 0 15px;
+  border: 1px solid #006eda;
+  border-radius: 4px;
+}
+
+#tag-map .map-content .map-content-row[data-v-6489a9a8] {
+  display: -webkit-box;
+  display: flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+#tag-map .map-content .item-box[data-v-6489a9a8] {
+  position: relative;
+  width: 270px;
+  margin: 30px 15px;
+  padding: 10px;
+  border: 1px dotted #b7daff;
+  border-radius: 4px;
+}
+
+#tag-map .map-content .item-title-content[data-v-6489a9a8] {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  height: 24px;
+  padding: 0 30px;
+  line-height: 24px;
+  text-align: center;
+  background: #619df5;
+  border-radius: 2px;
+  transform: translate(-50%, -50%);
+}
+
+#tag-map .map-content .item-title-content .item-title-text[data-v-6489a9a8] {
+  color: #fff;
+  font-weight: 400;
+  font-size: 13px;
+  font-family: PingFangSC-Regular;
+}
+
+#tag-map .map-content .item-title-content .item-active-text[data-v-6489a9a8] {
+  color: #fff;
+  line-height: 24px;
+}
+
+#tag-map .map-content .item-title-content-fourth[data-v-6489a9a8] {
+  left: 50%;
+  width: 165px;
+  height: 22px;
+  padding: 0;
+  line-height: 20px;
+  background: #e2edfd;
+  border: none;
+}
+
+#tag-map
+  .map-content
+  .item-title-content-fourth
+  .item-title-text[data-v-6489a9a8] {
+  padding: 0;
+  color: #3581f5;
+  font-size: 12px;
+}
+
+#tag-map .map-content .item-title-content[data-v-6489a9a8]:hover {
+  background: #006eda;
+  border: 0;
+  cursor: pointer;
+}
+
+#tag-map
+  .map-content
+  .item-title-content:hover
+  .item-title-text[data-v-6489a9a8] {
+  color: #fff;
+  line-height: 24px;
+}
+
+#tag-map .map-content .item-conent[data-v-6489a9a8] {
+  position: relative;
+}
+
+#tag-map .map-content .item-conent .item-content-text[data-v-6489a9a8] {
+  position: relative;
+  display: block;
+  width: 165px;
+  height: 22px;
+  margin: 14px auto 0;
+  color: #3581f5;
+  font-weight: 400;
+  font-size: 12px;
+  font-family: PingFangSC-Regular;
+  line-height: 22px;
+  text-align: center;
+  background: #e2edfd;
+  border-radius: 2px;
+}
+
+#tag-map .map-content .item-conent .levelup[data-v-6489a9a8] {
+  width: unset !important;
+}
+
+#tag-map .map-content .item-conent .item-content-text[data-v-6489a9a8]:hover {
+  color: #fff;
+  line-height: 22px;
+  background: #006eda;
+  border: 0;
+  cursor: pointer;
+}
+
+#tag-map .map-content .item-conent .thirdTagBorder[data-v-6489a9a8] {
+  position: relative;
+  width: 208px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px dotted #c4dafb;
+  border-radius: 4px;
+}
+
+#tag-map .map-content .item-conent-fourth .item-content-text[data-v-6489a9a8] {
+  width: 150px;
+  color: #3581f5;
+  background: #fff;
+  border: 1px dotted #b7daff;
+}
+
+#tag-map .map-content .item-active-box[data-v-6489a9a8] {
+  background: #006eda;
+  border: 0;
+}
+
+#tag-map .map-content .item-content[data-v-6489a9a8]:hover {
+  background: #006eda;
+  border: 0;
+  cursor: pointer;
+}
+
+#tag-map .content-title[data-v-6489a9a8] {
+  position: relative;
+  height: 24px;
+  padding: 1px 10px;
+  color: #006eda;
+  font-weight: 400;
+  font-size: 13px;
+  font-family: PingFangSC-Regular;
+  line-height: 24px;
+  background: #fff;
+  border: 1px solid #006eda;
+  border-radius: 2px;
+}
+
+#tag-map .content-title[data-v-6489a9a8]:hover {
+  color: #fff;
+  background: #006eda;
+  border: #006eda;
+  cursor: pointer;
+}
+
+#tag-map .item-active-title[data-v-6489a9a8] {
+  color: #fff;
+  line-height: 24px;
+  background: #006eda;
+  border: 0;
+  cursor: pointer;
+}
+
+#tag-map .verticalLine[data-v-6489a9a8] {
+  width: 2px;
+  height: 11px;
+  margin: 0 auto;
+  border: 1px solid #006eda;
+}
+
+#detailTag-listedCompany .detailTag-listedCompany .header[data-v-2324c310] {
+  display: -webkit-box;
+  display: flexbox;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  color: #333;
+  font-size: 12px;
+  font-family: PingFangSC-Regular;
+  line-height: 12px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+}
+
+#detailTag-listedCompany .detailTag-listedCompany .showFilter[data-v-2324c310] {
+  color: #006eda;
+  font-weight: 400;
+  font-size: 12px;
+  font-family: PingFangSC-Regular;
+  line-height: 20px;
+  cursor: pointer;
+}
+
+#economicIndustry[data-v-6fb2a86b] {
+  min-width: 1220px;
+  min-height: calc(100vh - 50px);
+  padding-bottom: 20px;
+  background-color: #f5f5f5;
+}
+
+#economicIndustry .industry-header[data-v-6fb2a86b] {
+  display: -webkit-box;
+  display: flexbox;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 210px;
+  background-image: url(https://img1.qimingpian.cn/uploadImg/202202/620385b1bb0ae.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100% 100%;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+}
+
+#economicIndustry .industry-header .header-tip[data-v-6fb2a86b] {
+  display: -webkit-box;
+  display: flexbox;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  -webkit-box-flex: 1;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+}
+
+#economicIndustry
+  .industry-header
+  .header-tip
+  .header-tip-analysis[data-v-6fb2a86b] {
+  font-weight: 600;
+  font-size: 40px;
+  text-align: center;
+}
+
+#economicIndustry
+  .industry-header
+  .header-tip
+  .header-tip-trade[data-v-6fb2a86b] {
+  font-weight: 500;
+  font-size: 28px;
+  text-align: center;
+}
+
+#economicIndustry .industry-header .header-tags[data-v-6fb2a86b] {
+  display: -webkit-box;
+  display: flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+#economicIndustry .industry-header .header-tags .tabs[data-v-6fb2a86b] {
+  width: 88%;
+  padding: 0 20px;
+  background: #fff;
+  border-bottom: 1px solid #f7f7f7;
+  border-radius: 15px 15px 0 0;
+}
+
+#economicIndustry .tag-wrapper[data-v-6fb2a86b] {
+  display: -webkit-box;
+  display: flexbox;
+  display: flex;
+  width: 88%;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 0 0 15px 15px;
+}
+
+#economicIndustry .industry-header .header-tags .tabs-underline {
+  display: -webkit-box;
+  display: flexbox;
+  display: flex;
+  height: 50px;
+}
+
+#economicIndustry
+  .industry-header
+  .header-tags
+  .tabs-underline
+  .tab-item-underline {
+  -webkit-box-flex: 1;
+  flex: 1;
+}
