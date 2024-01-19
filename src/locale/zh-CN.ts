@@ -28,6 +28,8 @@ import localeUserSetting from '@/views/user/setting/locale/zh-CN';
 
 import localeCustomerManagement from '@/views/customer-management/locale/zh-CN';
 import localeIndustryAnalysis from '@/views/industry-analysis/locale/zh-CN';
+import localeCallOut from '@/views/call-out/locale/zh-CN';
+import localeTelemarketing from '@/views/telemarketing/locale/zh-CN';
 
 import localeSettings from './zh-CN/settings';
 
@@ -69,4 +71,6 @@ export default {
   ...localeUserSetting,
   ...localeCustomerManagement,
   ...localeIndustryAnalysis,
+  ...localeCallOut,
+  ...localeTelemarketing,
 };
