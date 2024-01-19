@@ -107,16 +107,14 @@ const rulesPresetList: ServiceRecord[] = [
   {
     id: 1,
     title: '内容屏蔽规则',
-    description:
-      '用户在执行特定的内容分发任务时，可使用内容屏蔽规则根据特定标签，过滤内容集合。',
+    description: '用户在执行特定的内容分发任务时，可使用内容屏蔽规则根据特定标签，过滤内容集合。',
     enable: true,
     actionType: 'switch',
   },
   {
     id: 2,
     title: '内容置顶规则',
-    description:
-      '该规则支持用户在执行特定内容分发任务时，对固定的几条内容置顶。',
+    description: '该规则支持用户在执行特定内容分发任务时，对固定的几条内容置顶。',
     enable: true,
     actionType: 'switch',
   },
@@ -144,8 +142,7 @@ const rulesPresetList: ServiceRecord[] = [
   {
     id: 6,
     title: '多语言文字符号识别',
-    description:
-      '精准识别英语、维语、藏语、蒙古语、朝鲜语等多种语言以及emoji表情形态的语义识别。',
+    description: '精准识别英语、维语、藏语、蒙古语、朝鲜语等多种语言以及emoji表情形态的语义识别。',
     enable: false,
     actionType: 'switch',
   },
@@ -159,7 +156,7 @@ setupMock({
         qualityInspectionList.map((_, index) => ({
           ...qualityInspectionList[index % qualityInspectionList.length],
           id: Mock.Random.guid(),
-        }))
+        })),
       );
     });
 
@@ -169,7 +166,7 @@ setupMock({
         theServiceList.map((_, index) => ({
           ...theServiceList[index % theServiceList.length],
           id: Mock.Random.guid(),
-        }))
+        })),
       );
     });
 
@@ -179,7 +176,7 @@ setupMock({
         rulesPresetList.map((_, index) => ({
           ...rulesPresetList[index % rulesPresetList.length],
           id: Mock.Random.guid(),
-        }))
+        })),
       );
     });
   },

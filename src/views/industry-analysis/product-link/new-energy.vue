@@ -4,9 +4,7 @@
       <div data-v-6fb2a86b="" class="p10">
         <div id="tag-map" data-v-6489a9a8="" data-v-6fb2a86b="" class="">
           <div data-v-6489a9a8="" class="tc">
-            <span data-v-6489a9a8="" class="content-title">
-              新能源产业（1095个项目）
-            </span>
+            <span data-v-6489a9a8="" class="content-title"> 新能源产业（1095个项目） </span>
           </div>
           <div data-v-6489a9a8="" class="verticalLine"></div>
           <div data-v-6489a9a8="" class="map-content">
@@ -14,9 +12,7 @@
               <div data-v-6489a9a8="">
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text">
-                      核电产业（19个项目）
-                    </span>
+                    <span data-v-6489a9a8="" class="item-title-text"> 核电产业（19个项目） </span>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -32,14 +28,9 @@
                         class="item-title-content item-title-content-fourth ellipsis"
                         style="width: 250px"
                       >
-                        <span data-v-6489a9a8="" class="item-title-text">
-                          核燃料加工（4）
-                        </span>
+                        <span data-v-6489a9a8="" class="item-title-text"> 核燃料加工（4） </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -50,31 +41,18 @@
                     </div>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
-                    <span
-                      data-v-6489a9a8=""
-                      class="item-content-text"
-                      style="width: 300px"
-                    >
+                    <span data-v-6489a9a8="" class="item-content-text" style="width: 300px">
                       核电装备制造（19）
                     </span>
-                    <div
-                      data-v-6489a9a8=""
-                      class="thirdTagBorder"
-                      style="display: none"
-                    >
+                    <div data-v-6489a9a8="" class="thirdTagBorder" style="display: none">
                       <div
                         data-v-6489a9a8=""
                         class="item-title-content item-title-content-fourth ellipsis"
                         style="width: 250px"
                       >
-                        <span data-v-6489a9a8="" class="item-title-text">
-                          核电装备制造（19）
-                        </span>
+                        <span data-v-6489a9a8="" class="item-title-text"> 核电装备制造（19） </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      ></div>
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth"></div>
                     </div>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
@@ -91,14 +69,9 @@
                         class="item-title-content item-title-content-fourth ellipsis"
                         style="width: 250px"
                       >
-                        <span data-v-6489a9a8="" class="item-title-text">
-                          核电运营爱护（15）
-                        </span>
+                        <span data-v-6489a9a8="" class="item-title-text"> 核电运营爱护（15） </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -113,9 +86,7 @@
               <div data-v-6489a9a8="">
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text">
-                      风能产业（56个项目）
-                    </span>
+                    <span data-v-6489a9a8="" class="item-title-text"> 风能产业（56个项目） </span>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -131,14 +102,9 @@
                         class="item-title-content item-title-content-fourth ellipsis"
                         style="width: 250px"
                       >
-                        <span data-v-6489a9a8="" class="item-title-text">
-                          风能设备制造（5）
-                        </span>
+                        <span data-v-6489a9a8="" class="item-title-text"> 风能设备制造（5） </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -166,10 +132,7 @@
                           风能发电运营爱护（51）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -206,10 +169,7 @@
                           太阳能设备制造（181）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -255,10 +215,7 @@
                           太阳能发电运营爱护（100）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -293,10 +250,7 @@
                           新能源产业工程施工（55）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -307,18 +261,10 @@
                     </div>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
-                    <span
-                      data-v-6489a9a8=""
-                      class="item-content-text"
-                      style="width: 300px"
-                    >
+                    <span data-v-6489a9a8="" class="item-content-text" style="width: 300px">
                       新能源产业工程设计（55）
                     </span>
-                    <div
-                      data-v-6489a9a8=""
-                      class="thirdTagBorder"
-                      style="display: none"
-                    >
+                    <div data-v-6489a9a8="" class="thirdTagBorder" style="display: none">
                       <div
                         data-v-6489a9a8=""
                         class="item-title-content item-title-content-fourth ellipsis"
@@ -328,10 +274,7 @@
                           新能源产业工程设计（55）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      ></div>
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth"></div>
                     </div>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
@@ -352,10 +295,7 @@
                           新能源技术与咨询服务（55）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -398,10 +338,7 @@
                           生物质能及其他新能源设备制造（53）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -433,10 +370,7 @@
                           生物智能及其他新能源运营爱护（108）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -471,10 +405,7 @@
                           智能电网产业（516）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -497,13 +428,7 @@
           <div class="el-loading-mask" style="display: none">
             <div class="el-loading-spinner">
               <svg viewBox="25 25 50 50" class="circular">
-                <circle
-                  cx="50"
-                  cy="50"
-                  r="20"
-                  fill="none"
-                  class="path"
-                ></circle>
+                <circle cx="50" cy="50" r="20" fill="none" class="path"></circle>
               </svg>
             </div>
           </div>
@@ -514,5 +439,5 @@
 </template>
 
 <style>
-  @import './index.css';
+@import './index.css';
 </style>

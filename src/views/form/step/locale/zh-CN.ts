@@ -17,8 +17,7 @@ export default {
   'stepForm.form.label.activityName': '活动名称',
   'stepForm.placeholder.activityName': '输入汉字、字母或数字，最多20字符',
   'stepForm.form.error.activityName.required': '请输入活动名称',
-  'stepForm.form.error.activityName.pattern':
-    '输入汉字、字母或数字，最多20字符',
+  'stepForm.form.error.activityName.pattern': '输入汉字、字母或数字，最多20字符',
   'stepForm.form.label.channelType': '渠道类型',
   'stepForm.placeholder.channelType': '请选择渠道类型',
   'stepForm.form.error.channelType.required': '请选择渠道类型',
@@ -42,8 +41,7 @@ export default {
   'stepForm.form.error.keyword.required': '请选择关键词',
   'stepForm.form.label.pushNotify': '推送提醒',
   'stepForm.form.label.advertisingContent': '广告内容',
-  'stepForm.placeholder.advertisingContent':
-    '请输入广告内容介绍，最多不超过200字。',
+  'stepForm.placeholder.advertisingContent': '请输入广告内容介绍，最多不超过200字。',
   'stepForm.form.error.advertisingContent.required': '请输入广告内容',
   'stepForm.form.error.advertisingContent.maxLength': '最多不超过200字',
   'stepForm.form.description.title': '渠道表单说明',

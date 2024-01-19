@@ -4,9 +4,7 @@
       <div data-v-6fb2a86b="" class="p10" style="">
         <div id="tag-map" data-v-6489a9a8="" data-v-6fb2a86b="" class="">
           <div data-v-6489a9a8="" class="tc">
-            <span data-v-6489a9a8="" class="content-title">
-              高端装备制造产业（4300个项目）
-            </span>
+            <span data-v-6489a9a8="" class="content-title"> 高端装备制造产业（4300个项目） </span>
           </div>
           <div data-v-6489a9a8="" class="verticalLine"></div>
           <div data-v-6489a9a8="" class="map-content">
@@ -36,10 +34,7 @@
                           航空器装备制造（66）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -73,10 +68,7 @@
                           其他航空装备制造及修理（49）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -131,10 +123,7 @@
                           卫星装备制造（385）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -168,10 +157,7 @@
                           卫星应用技术设备（96）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -205,10 +191,7 @@
                           卫星应用服务（289）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -281,10 +264,7 @@
                           铁路高端装备制造（41）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -324,10 +304,7 @@
                           都市轨道装备制造（904）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -355,10 +332,7 @@
                           轨道交通其他装备制造（859）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -407,10 +381,7 @@
                           海洋工程装备产业（6）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -445,10 +416,7 @@
                           智能测控装备制造（854）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -500,10 +468,7 @@
                           重大成套设备制造（913）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -555,10 +520,7 @@
                           智能关键基础零部件制造（1133）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -581,13 +543,7 @@
           <div class="el-loading-mask" style="display: none">
             <div class="el-loading-spinner">
               <svg viewBox="25 25 50 50" class="circular">
-                <circle
-                  cx="50"
-                  cy="50"
-                  r="20"
-                  fill="none"
-                  class="path"
-                ></circle>
+                <circle cx="50" cy="50" r="20" fill="none" class="path"></circle>
               </svg>
             </div>
           </div>
@@ -598,5 +554,5 @@
 </template>
 
 <style>
-  @import './index.css';
+@import './index.css';
 </style>

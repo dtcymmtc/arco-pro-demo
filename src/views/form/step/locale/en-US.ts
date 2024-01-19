@@ -27,8 +27,7 @@ export default {
   'stepForm.placeholder.channelType': 'Select a channel type',
   'stepForm.form.error.channelType.required': 'Please select a channel type',
   'stepForm.form.label.promotionTime': 'Promotion Time',
-  'stepForm.form.error.promotionTime.required':
-    'Please select the promotion time',
+  'stepForm.form.error.promotionTime.required': 'Please select the promotion time',
   'stepForm.form.label.promoteLink': 'Promote Link',
   'stepForm.form.error.promoteLink.required': 'Please enter the promotion link',
   'stepForm.form.error.promoteLink.pattern':
@@ -40,14 +39,11 @@ export default {
   // form -1 end
   // form -2
   'stepForm.form.label.advertisingSource': 'Advertising Source',
-  'stepForm.placeholder.advertisingSource':
-    'Introduction source address: Sohu, Sina',
-  'stepForm.form.error.advertisingSource.required':
-    'Please enter the advertising source',
+  'stepForm.placeholder.advertisingSource': 'Introduction source address: Sohu, Sina',
+  'stepForm.form.error.advertisingSource.required': 'Please enter the advertising source',
   'stepForm.form.label.advertisingMedia': 'Advertising Media',
   'stepForm.placeholder.advertisingMedia': 'Marketing media: CPC, Banner, EDM',
-  'stepForm.form.error.advertisingMedia.required':
-    'Please enter the advertising media',
+  'stepForm.form.error.advertisingMedia.required': 'Please enter the advertising media',
   'stepForm.form.label.keyword': 'keyword',
   'stepForm.placeholder.keyword': 'Please select keyword',
   'stepForm.form.error.keyword.required': 'Please select keyword',
@@ -57,8 +53,7 @@ export default {
     'Please enter the description of advertisement content, the maximum is 200 words',
   'stepForm.form.error.advertisingContent.required':
     'Please enter the description of advertisement content',
-  'stepForm.form.error.advertisingContent.maxLength':
-    'the maximum is 200 words',
+  'stepForm.form.error.advertisingContent.maxLength': 'the maximum is 200 words',
   // form -2 end
   'stepForm.form.description.title': 'Channel Form Description',
   'stepForm.form.description.text':

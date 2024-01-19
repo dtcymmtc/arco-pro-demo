@@ -40,8 +40,7 @@ export default {
   'userSetting.basicInfo.form.label.address': '具体地址',
   'userSetting.basicInfo.placeholder.address': '请输入您的地址',
   'userSetting.basicInfo.form.label.profile': '个人简介',
-  'userSetting.basicInfo.placeholder.profile':
-    '请输入您的个人简介，最多不超过200字。',
+  'userSetting.basicInfo.placeholder.profile': '请输入您的个人简介，最多不超过200字。',
   'userSetting.form.error.profile.maxLength': '最多不超过200字',
   'userSetting.SecuritySettings.form.label.password': '登录密码',
   'userSetting.SecuritySettings.placeholder.password':

@@ -87,10 +87,7 @@
         allow-clear
       />
     </a-form-item>
-    <a-form-item
-      field="address"
-      :label="$t('userSetting.basicInfo.form.label.address')"
-    >
+    <a-form-item field="address" :label="$t('userSetting.basicInfo.form.label.address')">
       <a-input
         v-model="formData.address"
         :placeholder="$t('userSetting.basicInfo.placeholder.address')"
@@ -126,34 +123,34 @@
 </template>
 
 <script lang="ts" setup>
-  import { ref } from 'vue';
-  import { FormInstance } from '@arco-design/web-vue/es/form';
-  import { BasicInfoModel } from '@/api/user-center';
+import { ref } from 'vue';
+import { FormInstance } from '@arco-design/web-vue/es/form';
+import { BasicInfoModel } from '@/api/user-center';
 
-  const formRef = ref<FormInstance>();
-  const formData = ref<BasicInfoModel>({
-    email: '',
-    nickname: '',
-    countryRegion: '',
-    area: '',
-    address: '',
-    profile: '',
-  });
-  const validate = async () => {
-    const res = await formRef.value?.validate();
-    if (!res) {
-      // do some thing
-      // you also can use html-type to submit
-    }
-  };
-  const reset = async () => {
-    await formRef.value?.resetFields();
-  };
+const formRef = ref<FormInstance>();
+const formData = ref<BasicInfoModel>({
+  email: '',
+  nickname: '',
+  countryRegion: '',
+  area: '',
+  address: '',
+  profile: '',
+});
+const validate = async () => {
+  const res = await formRef.value?.validate();
+  if (!res) {
+    // do some thing
+    // you also can use html-type to submit
+  }
+};
+const reset = async () => {
+  await formRef.value?.resetFields();
+};
 </script>
 
 <style scoped lang="less">
-  .form {
-    width: 540px;
-    margin: 0 auto;
-  }
+.form {
+  width: 540px;
+  margin: 0 auto;
+}
 </style>

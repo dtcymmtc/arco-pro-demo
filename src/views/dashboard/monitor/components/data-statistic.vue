@@ -1,14 +1,8 @@
 <template>
   <a-card :bordered="false" :body-style="{ padding: '20px' }">
     <a-tabs default-active-tab="liveMethod">
-      <a-tab-pane
-        key="liveMethod"
-        :title="$t('monitor.tab.title.liveMethod')"
-      />
-      <a-tab-pane
-        key="onlinePopulation"
-        :title="$t('monitor.tab.title.onlinePopulation')"
-      />
+      <a-tab-pane key="liveMethod" :title="$t('monitor.tab.title.liveMethod')" />
+      <a-tab-pane key="onlinePopulation" :title="$t('monitor.tab.title.onlinePopulation')" />
     </a-tabs>
     <div class="data-statistic-content">
       <a-radio-group :default-value="3" type="button">
@@ -32,25 +26,25 @@
 </template>
 
 <script lang="ts" setup>
-  import DataStatisticList from './data-statistic-list.vue';
+import DataStatisticList from './data-statistic-list.vue';
 </script>
 
 <style scoped lang="less">
-  .data-statistic {
-    &-content {
-      padding: 20px 0;
+.data-statistic {
+  &-content {
+    padding: 20px 0;
+  }
+
+  &-list {
+    &-header {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 16px;
     }
 
-    &-list {
-      &-header {
-        display: flex;
-        justify-content: space-between;
-        margin-top: 16px;
-      }
-
-      &-content {
-        margin-top: 16px;
-      }
+    &-content {
+      margin-top: 16px;
     }
   }
+}
 </style>

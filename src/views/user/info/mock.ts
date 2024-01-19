@@ -70,7 +70,7 @@ setupMock({
           description: units[index].description,
           peopleNumber: Mock.Random.natural(10, 1000),
           contributors,
-        }))
+        })),
       );
     });
 
@@ -83,7 +83,7 @@ setupMock({
           description: '企业级产品设计系统',
           avatar:
             '//p1-arco.byteimg.com/tos-cn-i-uwbnlip3yd/a8c8cdb109cb051163646151a4a5083b.png~tplv-uwbnlip3yd-webp.webp',
-        }))
+        })),
       );
     });
 

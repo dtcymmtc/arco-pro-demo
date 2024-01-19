@@ -77,10 +77,7 @@
   border: none;
 }
 
-#tag-map
-  .map-content
-  .item-title-content-fourth
-  .item-title-text[data-v-6489a9a8] {
+#tag-map .map-content .item-title-content-fourth .item-title-text[data-v-6489a9a8] {
   padding: 0;
   color: #3581f5;
   font-size: 12px;
@@ -92,10 +89,7 @@
   cursor: pointer;
 }
 
-#tag-map
-  .map-content
-  .item-title-content:hover
-  .item-title-text[data-v-6489a9a8] {
+#tag-map .map-content .item-title-content:hover .item-title-text[data-v-6489a9a8] {
   color: #fff;
   line-height: 24px;
 }
@@ -263,19 +257,13 @@
   -webkit-box-direction: normal;
 }
 
-#economicIndustry
-  .industry-header
-  .header-tip
-  .header-tip-analysis[data-v-6fb2a86b] {
+#economicIndustry .industry-header .header-tip .header-tip-analysis[data-v-6fb2a86b] {
   font-weight: 600;
   font-size: 40px;
   text-align: center;
 }
 
-#economicIndustry
-  .industry-header
-  .header-tip
-  .header-tip-trade[data-v-6fb2a86b] {
+#economicIndustry .industry-header .header-tip .header-tip-trade[data-v-6fb2a86b] {
   font-weight: 500;
   font-size: 28px;
   text-align: center;
@@ -315,11 +303,7 @@
   height: 50px;
 }
 
-#economicIndustry
-  .industry-header
-  .header-tags
-  .tabs-underline
-  .tab-item-underline {
+#economicIndustry .industry-header .header-tags .tabs-underline .tab-item-underline {
   -webkit-box-flex: 1;
   flex: 1;
 }

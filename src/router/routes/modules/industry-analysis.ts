@@ -15,8 +15,7 @@ const INDUSTRYANALYSIS: AppRouteRecordRaw = {
     {
       path: 'product-link',
       name: 'newMaterial',
-      component: () =>
-        import('@/views/industry-analysis/product-link/index.vue'),
+      component: () => import('@/views/industry-analysis/product-link/index.vue'),
       meta: {
         locale: 'menu.industryAnalysis.productLink',
         requiresAuth: true,
@@ -26,8 +25,7 @@ const INDUSTRYANALYSIS: AppRouteRecordRaw = {
     {
       path: 'intellectual-property',
       name: 'intellectualProperty',
-      component: () =>
-        import('@/views/industry-analysis/intellectual-property.vue'),
+      component: () => import('@/views/industry-analysis/intellectual-property.vue'),
       meta: {
         locale: 'menu.industryAnalysis.intellectualProperty',
         requiresAuth: true,

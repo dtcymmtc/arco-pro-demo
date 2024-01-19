@@ -15,7 +15,7 @@ const data = Mock.mock({
       'count|2-3': /[0-9]/,
       'status|1': ['online', 'offline'],
       'filterType|1': ['artificial', 'rules'],
-      'createdTime': Random.datetime(),
+      createdTime: Random.datetime(),
     },
   ],
 });

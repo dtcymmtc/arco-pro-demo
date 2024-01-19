@@ -4,9 +4,7 @@
       <div data-v-6fb2a86b="" class="p10" style="">
         <div id="tag-map" data-v-6489a9a8="" data-v-6fb2a86b="" class="">
           <div data-v-6489a9a8="" class="tc">
-            <span data-v-6489a9a8="" class="content-title">
-              新材料产业（7468个项目）
-            </span>
+            <span data-v-6489a9a8="" class="content-title"> 新材料产业（7468个项目） </span>
           </div>
           <div data-v-6489a9a8="" class="verticalLine"></div>
           <div data-v-6489a9a8="" class="map-content">
@@ -36,10 +34,7 @@
                           新型功能涂层材料制造（88）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -73,10 +68,7 @@
                           新型膜材料制造（790）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -105,18 +97,10 @@
                     </div>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
-                    <span
-                      data-v-6489a9a8=""
-                      class="item-content-text"
-                      style="width: 300px"
-                    >
+                    <span data-v-6489a9a8="" class="item-content-text" style="width: 300px">
                       功能陶瓷制造（1986）
                     </span>
-                    <div
-                      data-v-6489a9a8=""
-                      class="thirdTagBorder"
-                      style="display: none"
-                    >
+                    <div data-v-6489a9a8="" class="thirdTagBorder" style="display: none">
                       <div
                         data-v-6489a9a8=""
                         class="item-title-content item-title-content-fourth ellipsis"
@@ -126,10 +110,7 @@
                           功能陶瓷制造（1986）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      ></div>
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth"></div>
                     </div>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
@@ -150,10 +131,7 @@
                           电子功能材料制造（1986）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -205,10 +183,7 @@
                           其他新型功能材料制造（1108）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -293,10 +268,7 @@
                           高纯金属材料制造（260）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -408,10 +380,7 @@
                           高品质金属材料制造（884）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -481,10 +450,7 @@
                           新型合金材料制造（1831）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -548,10 +514,7 @@
                           工程塑料材料制造（30）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -594,10 +557,7 @@
                           高性能纤维复合材料制造（448）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -667,10 +627,7 @@
                           其他高性能复合材料制造（951）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -717,10 +674,7 @@
                           新材料研究服务（1065）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -748,10 +702,7 @@
                           新材料技术服务（1065）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      >
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth">
                         <span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
@@ -777,18 +728,10 @@
                     </span>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
-                    <span
-                      data-v-6489a9a8=""
-                      class="item-content-text"
-                      style="width: 300px"
-                    >
+                    <span data-v-6489a9a8="" class="item-content-text" style="width: 300px">
                       纳米材料制造（7468）
                     </span>
-                    <div
-                      data-v-6489a9a8=""
-                      class="thirdTagBorder"
-                      style="display: none"
-                    >
+                    <div data-v-6489a9a8="" class="thirdTagBorder" style="display: none">
                       <div
                         data-v-6489a9a8=""
                         class="item-title-content item-title-content-fourth ellipsis"
@@ -798,25 +741,14 @@
                           纳米材料制造（7468）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      ></div>
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth"></div>
                     </div>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
-                    <span
-                      data-v-6489a9a8=""
-                      class="item-content-text"
-                      style="width: 300px"
-                    >
+                    <span data-v-6489a9a8="" class="item-content-text" style="width: 300px">
                       生物材料制造（7468）
                     </span>
-                    <div
-                      data-v-6489a9a8=""
-                      class="thirdTagBorder"
-                      style="display: none"
-                    >
+                    <div data-v-6489a9a8="" class="thirdTagBorder" style="display: none">
                       <div
                         data-v-6489a9a8=""
                         class="item-title-content item-title-content-fourth ellipsis"
@@ -826,25 +758,14 @@
                           生物材料制造（7468）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      ></div>
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth"></div>
                     </div>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
-                    <span
-                      data-v-6489a9a8=""
-                      class="item-content-text"
-                      style="width: 300px"
-                    >
+                    <span data-v-6489a9a8="" class="item-content-text" style="width: 300px">
                       智能材料制造（7468）
                     </span>
-                    <div
-                      data-v-6489a9a8=""
-                      class="thirdTagBorder"
-                      style="display: none"
-                    >
+                    <div data-v-6489a9a8="" class="thirdTagBorder" style="display: none">
                       <div
                         data-v-6489a9a8=""
                         class="item-title-content item-title-content-fourth ellipsis"
@@ -854,25 +775,14 @@
                           智能材料制造（7468）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      ></div>
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth"></div>
                     </div>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
-                    <span
-                      data-v-6489a9a8=""
-                      class="item-content-text"
-                      style="width: 300px"
-                    >
+                    <span data-v-6489a9a8="" class="item-content-text" style="width: 300px">
                       超导材料制造（7468）
                     </span>
-                    <div
-                      data-v-6489a9a8=""
-                      class="thirdTagBorder"
-                      style="display: none"
-                    >
+                    <div data-v-6489a9a8="" class="thirdTagBorder" style="display: none">
                       <div
                         data-v-6489a9a8=""
                         class="item-title-content item-title-content-fourth ellipsis"
@@ -882,10 +792,7 @@
                           超导材料制造（7468）
                         </span>
                       </div>
-                      <div
-                        data-v-6489a9a8=""
-                        class="item-conent item-conent-fourth"
-                      ></div>
+                      <div data-v-6489a9a8="" class="item-conent item-conent-fourth"></div>
                     </div>
                   </div>
                 </div>
@@ -895,13 +802,7 @@
           <div class="el-loading-mask" style="display: none">
             <div class="el-loading-spinner">
               <svg viewBox="25 25 50 50" class="circular">
-                <circle
-                  cx="50"
-                  cy="50"
-                  r="20"
-                  fill="none"
-                  class="path"
-                ></circle>
+                <circle cx="50" cy="50" r="20" fill="none" class="path"></circle>
               </svg>
             </div>
           </div>
@@ -912,5 +813,5 @@
 </template>
 
 <style>
-  @import './index.css';
+@import './index.css';
 </style>

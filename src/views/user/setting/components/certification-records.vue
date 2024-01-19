@@ -6,9 +6,7 @@
   >
     <a-table v-if="renderData.length" :data="renderData">
       <template #columns>
-        <a-table-column
-          :title="$t('userSetting.certification.columns.certificationType')"
-        >
+        <a-table-column :title="$t('userSetting.certification.columns.certificationType')">
           <template #cell>
             {{ $t('userSetting.certification.cell.certificationType') }}
           </template>
@@ -29,13 +27,8 @@
             </p>
           </template>
         </a-table-column>
-        <a-table-column
-          :title="$t('userSetting.certification.columns.time')"
-          data-index="time"
-        />
-        <a-table-column
-          :title="$t('userSetting.certification.columns.operation')"
-        >
+        <a-table-column :title="$t('userSetting.certification.columns.time')" data-index="time" />
+        <a-table-column :title="$t('userSetting.certification.columns.operation')">
           <template #cell="{ record }">
             <a-space>
               <a-button type="text">
@@ -53,25 +46,25 @@
 </template>
 
 <script lang="ts" setup>
-  import { PropType } from 'vue';
-  import { CertificationRecord } from '@/api/user-center';
+import { PropType } from 'vue';
+import { CertificationRecord } from '@/api/user-center';
 
-  defineProps({
-    renderData: {
-      type: Array as PropType<CertificationRecord>,
-      default() {
-        return [];
-      },
+defineProps({
+  renderData: {
+    type: Array as PropType<CertificationRecord>,
+    default() {
+      return [];
     },
-  });
+  },
+});
 </script>
 
 <style scoped lang="less">
-  :deep(.arco-table-th) {
-    &:last-child {
-      .arco-table-th-item-title {
-        margin-left: 16px;
-      }
+:deep(.arco-table-th) {
+  &:last-child {
+    .arco-table-th-item-title {
+      margin-left: 16px;
     }
   }
+}
 </style>
