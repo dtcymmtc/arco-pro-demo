@@ -2,7 +2,7 @@
   <div class="container">
     <a-card>
       <div data-v-6fb2a86b="" class="p10" style="">
-        <div id="tag-map" data-v-6489a9a8="" data-v-6fb2a86b="" class="">
+        <div data-v-6489a9a8="" data-v-6fb2a86b="" id="tag-map" class="">
           <div data-v-6489a9a8="" class="tc">
             <span data-v-6489a9a8="" class="content-title"> 高端装备制造产业（4300个项目） </span>
           </div>
@@ -12,9 +12,9 @@
               <div data-v-6489a9a8="">
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text">
-                      航空装备产业（121个项目）
-                    </span>
+                    <span data-v-6489a9a8="" class="item-title-text"
+                      >航空装备产业（121个项目）</span
+                    >
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -39,9 +39,8 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          飞机制造（24）{" "}
-                        </span>
-                        <span
+                          飞机制造（24） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -73,21 +72,18 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          航空、航天相关设备制造（49）{" "}
-                        </span>
-                        <span
+                          航空、航天相关设备制造（49） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          交通安全、管制及类似专用设备制造（25）{" "}
-                        </span>
-                        <span
+                          交通安全、管制及类似专用设备制造（25） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          航空航天修理（49）{" "}
-                        </span>
-                        <span
+                          航空航天修理（49） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -101,9 +97,9 @@
               <div data-v-6489a9a8="">
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text">
-                      卫星及应用产业（385个项目）
-                    </span>
+                    <span data-v-6489a9a8="" class="item-title-text"
+                      >卫星及应用产业（385个项目）</span
+                    >
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -128,9 +124,8 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          航天器制造（385）{" "}
-                        </span>
-                        <span
+                          航天器制造（385） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -162,9 +157,8 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          导航、气象及航洋专用仪器制造（96）{" "}
-                        </span>
-                        <span
+                          导航、气象及航洋专用仪器制造（96） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -196,39 +190,33 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          卫星传输服务（36）{" "}
-                        </span>
-                        <span
+                          卫星传输服务（36） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          广播电视传输服务（78）{" "}
-                        </span>
-                        <span
+                          广播电视传输服务（78） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          气象服务（21）{" "}
-                        </span>
-                        <span
+                          气象服务（21） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          地震服务（22）{" "}
-                        </span>
-                        <span
+                          地震服务（22） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          地质勘查（114）{" "}
-                        </span>
-                        <span
+                          地质勘查（114） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          工程勘察设计（1）{" "}
-                        </span>
-                        <span
+                          工程勘察设计（1） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -242,9 +230,9 @@
               <div data-v-6489a9a8="">
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text">
-                      轨道交通装备产业（904个项目）
-                    </span>
+                    <span data-v-6489a9a8="" class="item-title-text"
+                      >轨道交通装备产业（904个项目）</span
+                    >
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -269,15 +257,13 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          铁路机车车辆及动车组制造（41）{" "}
-                        </span>
-                        <span
+                          铁路机车车辆及动车组制造（41） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          铁路专用设备及器材、配件制造（41）{" "}
-                        </span>
-                        <span
+                          铁路专用设备及器材、配件制造（41） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -337,15 +323,13 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          内燃机及配件制造（54）{" "}
-                        </span>
-                        <span
+                          内燃机及配件制造（54） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          其他未列明电气机械及器材制造（744）{" "}
-                        </span>
-                        <span
+                          其他未列明电气机械及器材制造（744） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -359,9 +343,9 @@
               <div data-v-6489a9a8="">
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text">
-                      海洋工程装备产业（6个项目）
-                    </span>
+                    <span data-v-6489a9a8="" class="item-title-text"
+                      >海洋工程装备产业（6个项目）</span
+                    >
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -394,9 +378,9 @@
                 </div>
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text">
-                      智能制造装备产业（2909个项目）
-                    </span>
+                    <span data-v-6489a9a8="" class="item-title-text"
+                      >智能制造装备产业（2909个项目）</span
+                    >
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -421,27 +405,23 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          工业自动操纵系统装置制造（854）{" "}
-                        </span>
-                        <span
+                          工业自动操纵系统装置制造（854） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          金属切削机床制造（181）{" "}
-                        </span>
-                        <span
+                          金属切削机床制造（181） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          金属成形机床制造（93）{" "}
-                        </span>
-                        <span
+                          金属成形机床制造（93） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          机床附件制造（854）{" "}
-                        </span>
-                        <span
+                          机床附件制造（854） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -473,27 +453,23 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          其他通用设备制造业（1）{" "}
-                        </span>
-                        <span
+                          其他通用设备制造业（1） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          印刷专用设备制造（85）{" "}
-                        </span>
-                        <span
+                          印刷专用设备制造（85） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          电子工业专用设备制造（913）{" "}
-                        </span>
-                        <span
+                          电子工业专用设备制造（913） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          其他专用设备制造（697）{" "}
-                        </span>
-                        <span
+                          其他专用设备制造（697） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -525,9 +501,8 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          机械零部件加工（703）{" "}
-                        </span>
-                        <span
+                          机械零部件加工（703） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -552,7 +527,6 @@
     </a-card>
   </div>
 </template>
-
 <style>
 @import './index.css';
 </style>

@@ -2,7 +2,7 @@
   <div class="container">
     <a-card>
       <div data-v-6fb2a86b="" class="p10">
-        <div id="tag-map" data-v-6489a9a8="" data-v-6fb2a86b="" class="">
+        <div data-v-6489a9a8="" data-v-6fb2a86b="" id="tag-map" class="">
           <div data-v-6489a9a8="" class="tc">
             <span data-v-6489a9a8="" class="content-title"> 新能源产业（1095个项目） </span>
           </div>
@@ -12,7 +12,7 @@
               <div data-v-6489a9a8="">
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text"> 核电产业（19个项目） </span>
+                    <span data-v-6489a9a8="" class="item-title-text">核电产业（19个项目）</span>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -86,7 +86,7 @@
               <div data-v-6489a9a8="">
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text"> 风能产业（56个项目） </span>
+                    <span data-v-6489a9a8="" class="item-title-text">风能产业（56个项目）</span>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -147,9 +147,7 @@
               <div data-v-6489a9a8="">
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text">
-                      太阳能产业（283个项目）
-                    </span>
+                    <span data-v-6489a9a8="" class="item-title-text">太阳能产业（283个项目）</span>
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -174,21 +172,18 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          光伏设备及元器件制造（68）{" "}
-                        </span>
-                        <span
+                          光伏设备及元器件制造（68） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          电子工业专用设备制造（181）{" "}
-                        </span>
-                        <span
+                          电子工业专用设备制造（181） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          其他电池制造（113）{" "}
-                        </span>
-                        <span
+                          其他电池制造（113） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -228,9 +223,9 @@
                 </div>
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text">
-                      新能源产业工程及研究技术服务（55个项目）
-                    </span>
+                    <span data-v-6489a9a8="" class="item-title-text"
+                      >新能源产业工程及研究技术服务（55个项目）</span
+                    >
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -300,9 +295,8 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          工程和技术研究和试验进展（55）{" "}
-                        </span>
-                        <span
+                          工程和技术研究和试验进展（55） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -316,9 +310,9 @@
               <div data-v-6489a9a8="">
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text">
-                      生物质能及其他新能源产业（161个项目）
-                    </span>
+                    <span data-v-6489a9a8="" class="item-title-text"
+                      >生物质能及其他新能源产业（161个项目）</span
+                    >
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -383,9 +377,9 @@
                 </div>
                 <div data-v-6489a9a8="" class="item-box" style="width: 300px">
                   <div data-v-6489a9a8="" class="item-title-content ellipsis">
-                    <span data-v-6489a9a8="" class="item-title-text">
-                      智能电网产业（516个项目）
-                    </span>
+                    <span data-v-6489a9a8="" class="item-title-text"
+                      >智能电网产业（516个项目）</span
+                    >
                   </div>
                   <div data-v-6489a9a8="" class="item-conent">
                     <span
@@ -410,9 +404,8 @@
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
-                          配电开关操纵设备制造（516）{" "}
-                        </span>
-                        <span
+                          配电开关操纵设备制造（516） </span
+                        ><span
                           data-v-6489a9a8=""
                           class="item-content-text-fourth item-content-text ellipsis"
                         >
@@ -437,7 +430,6 @@
     </a-card>
   </div>
 </template>
-
 <style>
 @import './index.css';
 </style>
